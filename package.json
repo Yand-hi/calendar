@@ -6,5 +6,9 @@
   "scripts": {
     "dev": "parcel",
     "build": "parcel build"
+  },
+  "devDependencies": {
+    "cssnano": "^5.0.15",
+    "postcss": "^8.2.15"
   }
 }
